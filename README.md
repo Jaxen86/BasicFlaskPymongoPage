@@ -1,5 +1,5 @@
-# SweTaxCal
-An application that automatically calculates swedish per diems.
+# Flask-Pymongo
+A basic flask application connected to mongoDB.
 
 
 ## Working in a virtual environment:
