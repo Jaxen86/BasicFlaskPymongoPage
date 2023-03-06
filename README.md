@@ -10,7 +10,7 @@ A basic flask application connected to mongoDB.
 
 3. Activate the virtual environment by running the command windows:`venv\Scripts\activate.ps1` or mac:`source venv/bin/activate`
 
-4. Deactivate
+4. if you want to deactivare type: Deactivate
 
 ## How to use env variables:
 
