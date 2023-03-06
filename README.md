@@ -21,8 +21,11 @@ A basic flask application connected to mongoDB.
 
 # .env file layout:
 DATABASE_URL=mongodb+srv://<username>:<password>@<cluster>.cxedcay.mongodb.net/<collection>?retryWrites=true&w=majority
+  
 MONGO_USER=
+  
 MONGO_USER_PWD=
+  
 
 DATABASE_FULL=mongodb+srv://<username>:<password>@<cluster>.cxedcay.mongodb.net/<collection>?retryWrites=true&w=majority
 
